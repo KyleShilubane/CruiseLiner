@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Open+Sans&family=Volkhov&display=swap');
+
+body{
+    margin: 0;
+    width: 1440px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+a:active{
+    color: #d323ff;
+}
+
+a:visited{
+    color: #fcb900;
+}
+
+a:hover{
+    color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+#nav{
+  width: 1440px;
+  height: 70px;
+  text-align: center;
+  position: inherit;
+}
+
+#nav_text{
+  display: inline;
+  font-family: 'Volkhov';
+  font-size: 35px;
+  margin-left: 15px;
+}
+
+#nav_logo{
+  display: inline;
+}
